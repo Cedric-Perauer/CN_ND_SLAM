@@ -16,3 +16,9 @@
  - The sense function was implemented, it considers uniformaly distributed noise for both motion and landmarks
  - The matrix omega and vector xi are both updated based on the measurements and observations at each time step 
  - The results are computed by calculating the output vector mu with the inverse of omega and vector xi 
+
+## Interesting Articles to read in the future
+ - [Essential SLAM Algorithms](https://people.eecs.berkeley.edu/~pabbeel/cs287-fa09/readings/Durrant-Whyte_Bailey_SLAM-tutorial-I.pdf)
+ - [MIT SLAM for Dummies](https://dspace.mit.edu/bitstream/handle/1721.1/36832/16-412JSpring2004/NR/rdonlyres/Aeronautics-and-Astronautics/16-412JSpring2004/A3C5517F-C092-4554-AA43-232DC74609B3/0/1Aslam_blas_report.pdf) 
+ - [Wiki](https://en.wikipedia.org/wiki/Simultaneous_localization_and_mapping)
+ 
